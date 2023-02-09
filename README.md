@@ -6,7 +6,7 @@
 
 ## [作业2](https://github.com/open-mmlab/OpenMMLabCamp/issues/30)
 - [x] 使用 MMDetection 训练气球实例分割模型
-- [ ] 使用 MMDetection 训练PASCAL VOC2007目标检测模型
+- [x] 使用 MMDetection 训练VOC2007目标检测模型
 
 ## 作业3
 
