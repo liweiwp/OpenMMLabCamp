@@ -8,6 +8,8 @@
 - [x] 使用 MMDetection 训练气球实例分割模型
 - [x] 使用 MMDetection 训练VOC2007目标检测模型
 
-## 作业3
+## [作业3](https://github.com/open-mmlab/OpenMMLabCamp/issues/51)
+- [x] 使用 MMSegmentation 训练肾小球语义分割模型
+- [x] 使用 MMSegmentation 训练VOC2012语义分割模型
 
 ## [学员手册](https://aicarrier.feishu.cn/docx/QMRzd0NoxokuKvxNfS3car1EnHh)
