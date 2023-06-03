@@ -1,3 +1,9 @@
+# OpenMMLab AI 实战营二期作业
+## [作业1](https://github.com/open-mmlab/OpenMMLabCamp/issues/95)
+- [x] 使用 MMDetection 和 MMPose 训练耳朵关键点检测模型
+
+## [学员手册](https://aicarrier.feishu.cn/docx/QUxadeWW2op8UGxLfaOc1TtanQb)
+
 # OpenMMLab AI 实战营作业
 
 ## [作业1](https://github.com/open-mmlab/OpenMMLabCamp/issues/7)
