@@ -2,6 +2,9 @@
 ## [作业1](https://github.com/open-mmlab/OpenMMLabCamp/issues/95)
 - [x] 使用 MMDetection 和 MMPose 训练耳朵关键点检测模型
 
+## [作业2](https://github.com/open-mmlab/OpenMMLabCamp/issues/106)
+- [x] 使用 MMPretrain 训练水果图像分类模型
+
 ## [学员手册](https://aicarrier.feishu.cn/docx/QUxadeWW2op8UGxLfaOc1TtanQb)
 
 # OpenMMLab AI 实战营作业
