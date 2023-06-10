@@ -1,7 +1,7 @@
 #### 气球检测
 ##### Colab教程
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](rtmdet_balloon.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liweiwp/OpenMMLabCamp/blob/main/mmlab2/mmdet/rtmdet_balloon.ipynb)
 
 ##### 生成coco格式标注文件
 
