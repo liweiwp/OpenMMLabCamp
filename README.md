@@ -5,6 +5,9 @@
 ## [作业2](https://github.com/open-mmlab/OpenMMLabCamp/issues/106)
 - [x] 使用 MMPretrain 训练水果图像分类模型
 
+## [作业3](https://github.com/open-mmlab/OpenMMLabCamp/issues/130)
+- [x] 使用 MMDetection 训练气球目标检测模型
+
 ## [学员手册](https://aicarrier.feishu.cn/docx/QUxadeWW2op8UGxLfaOc1TtanQb)
 
 # OpenMMLab AI 实战营作业
