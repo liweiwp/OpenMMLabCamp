@@ -8,6 +8,12 @@
 ## [作业3](https://github.com/open-mmlab/OpenMMLabCamp/issues/130)
 - [x] 使用 MMDetection 训练气球目标检测模型
 
+## [作业4](https://github.com/open-mmlab/OpenMMLabCamp/issues/392)
+- [x] 使用 MMSegmentation 训练西瓜语义分割模型
+
+## [作业5](https://github.com/open-mmlab/OpenMMLabCamp/issues/407)
+- [x] 使用 MMagic 生成图片
+
 ## [学员手册](https://aicarrier.feishu.cn/docx/QUxadeWW2op8UGxLfaOc1TtanQb)
 
 # OpenMMLab AI 实战营作业
